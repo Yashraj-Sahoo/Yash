@@ -1,6 +1,6 @@
-<h1>Hi 👋, I&#39;m Lalatendu</h1>
+<h1>Hi 👋, I&#39;m Yash</h1>
 
-<h3>Personal Blog :&nbsp;<a href="https://lalatendu.info/">https://lalatendu.info</a></h3>
+<h3>Personal Blog :&nbsp;<a href="https://Yash.info/">https://Yash.info</a></h3>
 
 <h3>TechBlog :&nbsp;<a href="https://blog.lalatendu.info/">https://blog.lalatendu.info</a></h3>
 
