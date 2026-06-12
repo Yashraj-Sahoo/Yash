@@ -6,14 +6,36 @@
 
 <p style="text-align:justify"><img alt="Yashraj sahoo" src="https://komarev.com/ghpvc/?username=Yashraj&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
 
-<p style="text-align:justify"><strong>I am a seasoned System Administrator with 8 years of experience in managing and maintaining complex IT infrastructures. Over the years, I have developed a deep understanding of various operating systems, network protocols, and virtualization technologies. My technical expertise also extends to cloud platforms, where I have worked for 4 years and gained valuable experience in designing, deploying, and managing cloud-based solutions.</strong></p>
 
-<p style="text-align:justify"><strong>Throughout my career, I have demonstrated a passion for delivering reliable and secure systems that meet the needs of businesses and their users. I have a track record of successfully implementing and maintaining critical IT infrastructure components, such as servers, storage, and network devices, to ensure that they perform optimally and meet business objectives. I am also adept at troubleshooting complex technical issues and identifying root causes to ensure that systems operate efficiently.</strong></p>
+<p style="text-align:justify">
+<strong>
+I am a dedicated B.Tech student pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Sri Sri University, Cuttack. I am passionate about technology, software development, and problem-solving.
+</strong>
+</p>
 
-<p style="text-align:justify"><strong>I believe in staying up-to-date with emerging technologies and trends to remain relevant in the ever-evolving IT industry. I am constantly seeking opportunities to expand my knowledge and skills, and I am always eager to share my experience and expertise with others.</strong></p>
+<p style="text-align:justify">
+<strong>
+Currently, I am developing my skills in programming, web development, data structures, algorithms, and AI/ML technologies. I enjoy building projects, learning new technologies, and applying theoretical knowledge to practical solutions.
+</strong>
+</p>
 
-<p style="text-align:justify"><strong>If you need any assistance with System Administration or Cloud solutions, feel free to contact me. I would be more than happy to help you out!</strong></p>
+<p style="text-align:justify">
+<strong>
+My technical skills include C, C++, Java, Python, HTML, CSS, and JavaScript. I am continuously improving my coding abilities and exploring emerging technologies to prepare myself for a successful career in the software industry.
+</strong>
+</p>
 
+<p style="text-align:justify">
+<strong>
+I am actively seeking opportunities to learn, collaborate, and gain industry experience through internships, projects, and open-source contributions.
+</strong>
+</p>
+
+<p style="text-align:justify">
+<strong>
+Feel free to connect with me if you would like to discuss technology, programming, AI/ML, or potential collaboration opportunities.
+</strong>
+</p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="lalatenduswain" src="https://github-profile-trophy.vercel.app/?username=lalatenduswain" /></a></p>
 
 <p><strong>- 🔭 I&rsquo;m currently working on&nbsp; : Languages and Tools:</strong></p>
@@ -116,9 +138,9 @@ To secure a challenging opportunity in the field of Software Development, Artifi
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: Add Your LinkedIn Profile
-- Email: Add Your Email
+- GitHub: https://github.com/Yashraj-Sahoo
+- LinkedIn: https://www.linkedin.com/in/yashraj-sahoo
+- Email: verifyyash@gmail.com
 
 ---
 
