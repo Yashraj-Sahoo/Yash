@@ -41,3 +41,85 @@
 <h3>Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/lalatendu.swain"><img alt="lalatendu.swain" src="https://lalatendu.info/images/icons/buymeacoffee.svg" style="float:left; height:50px; width:210px" /></a></p>
+<h1 align="center">Hi 👋, I'm Yashraj Sahoo</h1>
+
+<h3 align="center">B.Tech Student | Computer Science & Engineering (AI & ML) | Aspiring Software Engineer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashrajSahoo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+## 👨‍🎓 About Me
+
+I am a passionate B.Tech student pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at 0.
+
+I am enthusiastic about software development, problem-solving, and emerging technologies. Currently, I am focused on strengthening my programming skills, exploring AI/ML concepts, and building practical projects that solve real-world problems.
+
+- 🎓 B.Tech (3rd Year) – CSE (AI & ML)
+- 🏫 Sri Sri University, Cuttack
+- 💻 Passionate about Programming & Software Development
+- 🌱 Currently learning Data Structures, Algorithms, AI/ML, and Web Development
+- 🚀 Looking for Internship and Industry-Ready Opportunities
+- 📚 Always eager to learn new technologies
+
+---
+
+## 🛠️ Languages & Technologies
+
+<p align="left">
+  🔹 C <br>
+  🔹 C++ <br>
+  🔹 Java <br>
+  🔹 Python <br>
+  🔹 HTML <br>
+  🔹 CSS <br>
+  🔹 JavaScript <br>
+</p>
+
+---
+
+## 🎯 Career Objective
+
+To secure a challenging opportunity in the field of Software Development, Artificial Intelligence, or Machine Learning where I can apply my technical skills, gain industry experience, and contribute to innovative solutions.
+
+---
+
+## 📈 Current Focus
+
+- Data Structures & Algorithms
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Web Development
+- Problem Solving
+- Open Source Contributions
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---
+
+## 🌟 Soft Skills
+
+- Teamwork
+- Leadership
+- Communication
+- Time Management
+- Problem Solving
+- Adaptability
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- LinkedIn: Add Your LinkedIn Profile
+- Email: Add Your Email
+
+---
+
+⭐ "Learning today, building tomorrow."
